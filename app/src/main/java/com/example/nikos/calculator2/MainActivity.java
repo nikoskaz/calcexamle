@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     float mValueOne, mValueTwo;
 
     boolean crunchifyAddition, mSubtract, crunchifyMultiplication, crunchifyDivision;
-
+// sxolio gia dokimi commit
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
